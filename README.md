@@ -49,3 +49,6 @@ To see which movies has what average rating with total ratings
 df_ratings.sort_values('no. of ratings',ascending=False).head()
 ```
 <img width="600" alt="tab" src="https://user-images.githubusercontent.com/69238621/140751745-f8569fac-af55-413b-b266-4b291d2c6f34.PNG">
+
+### How it works?
+We used the highely rated movie for refernce and then ccompared with thw help of correlation. So if we choose a particular movie, then model will show you the list of other movies which are highly correlated with that particular movie
