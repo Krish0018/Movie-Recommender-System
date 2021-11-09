@@ -14,19 +14,19 @@ Seaborn
 
 ### Installation
 for numpy
-```import numpy as np```
+```pip install numpy```
 
 
 for Pandas
-```import pandas as pd```
+```pip install pandas```
 
 
 For Matplotlib
-```import matplotlib.pyplot as plt```
+```pip install matplotlib```
 
 
 For Seaborn
-```import seaborn as sns```
+```pip install seaborn```
 
 
 ### Key Insights
